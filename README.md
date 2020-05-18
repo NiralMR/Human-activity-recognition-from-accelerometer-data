@@ -1,2 +1,2 @@
 # Human-activity-recognition-from-accelerometer-data
-Human activity recognition vased on accelerometer dataset.
+Human activity recognition based on accelerometer WISDM dataset.
